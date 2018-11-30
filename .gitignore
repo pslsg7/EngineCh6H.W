@@ -52,6 +52,10 @@ SourceArt/**/*.tga
 Binaries/*
 Plugins/*/Binaries/*
 
+# Content
+Content/InfinityBladeGrassLands/*
+Content/InfinityBladeWarriors/*
+
 # Builds
 Build/*
 
